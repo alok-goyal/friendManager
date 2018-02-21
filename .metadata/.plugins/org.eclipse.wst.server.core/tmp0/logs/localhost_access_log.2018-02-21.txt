@@ -1,0 +1,4 @@
+127.0.0.1 - - [21/Feb/2018:23:06:42 +0800] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [21/Feb/2018:23:06:43 +0800] "GET /friends-manager/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [21/Feb/2018:23:06:46 +0800] "POST /friends-manager/rest/friends/connect HTTP/1.1" 200 29
+0:0:0:0:0:0:0:1 - - [21/Feb/2018:23:07:18 +0800] "POST /friends-manager/rest/friends/connect HTTP/1.1" 200 29
