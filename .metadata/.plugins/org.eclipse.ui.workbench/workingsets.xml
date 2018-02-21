@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1519225355312_1" label="friends-manager" name="friends-manager">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/friends-manager" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1519225305769_0" label="Window Working Set" name="Aggregate for window 1519225305769"/>
+</workingSetManager>
